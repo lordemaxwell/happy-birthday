@@ -3,7 +3,7 @@
   "name": "胡老师",
   "greetingText": "今天好像是个特别的日子!",
   "wishText": "May happy always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/tupian.jpg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "Okay, that's all.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
